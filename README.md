@@ -1,1 +1,2 @@
-# elasticdl
+- GitHub repo: https://github.com/sql-machine-learning/elasticdl
+- Homepage: https://elasticai.org
